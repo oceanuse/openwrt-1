@@ -78,6 +78,9 @@ git clone https://github.com/fw876/helloworld.git package/helloworld
 #luci-app-adguardhome
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 
+
+svn co https://github.com/kiddin9/openwrt-packages/trunk/smartdns Package/smartdns
+
 ##############################################################################################
 
 # NAS
