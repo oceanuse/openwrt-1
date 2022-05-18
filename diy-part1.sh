@@ -79,7 +79,8 @@ git clone https://github.com/xiaorouji/openwrt-passwall2.git package/openwrt-pas
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 
 #smartdns
-git clone https://github.com/pymumu/luci-app-smartdns.git Package/smartdns
+git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
+git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 
 ##############################################################################################
 
